@@ -25,8 +25,8 @@ end
 
 def now_serving(array)
   if array.length >0
-    first = array.first
-    puts array
+    puts array.first
+    array = array.
   end
   else
     puts "There is nobody waiting to be served!"
