@@ -25,6 +25,7 @@ end
 
 def now_serving(array)
   if array.length >0
+    first = 
     puts array.first
     
   end
